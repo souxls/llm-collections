@@ -278,7 +278,7 @@ My llm stars lists.
 - [glake](https://github.com/intelligent-machine-learning/glake) - GLake: optimizing GPU memory management and IO transmission.
 - [vue0](https://github.com/zernonia/vue0) - Generate components with prompts.
 - [parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
-  
+- [n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 ## References
 
 - [GPT-Prompt-Hub](https://github.com/LichAmnesia/GPT-Prompt-Hub) - GPT-Prompt-Hub is an open-source community-driven repository dedicated to the collection, sharing, and refinement of custom GPT prompts. 

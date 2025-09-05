@@ -71,7 +71,6 @@ My llm stars lists.
 ## App
 
 - [spiceai](https://github.com/spiceai/spiceai) - A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.. 
-- [grafana-llm-app](https://github.com/grafana/grafana-llm-app) - Plugin to easily allow LLM based extensions to grafana. 
 - [rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is a Android APP that supports for multiple LLM providers.. 
 - [agent-chat-ui](https://github.com/langchain-ai/agent-chat-ui) - 🦜💬 Web app for interacting with any LangGraph agent (PY & TS) via a chat interface.. 
 - [chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app. 
@@ -278,7 +277,8 @@ My llm stars lists.
 - [starcoder2](Home of StarCoder2!) - StarCoder2 is a family of code generation models (3B, 7B, and 15B), trained on 600+ programming languages from The Stack v2 and some natural language text such as Wikipedia, Arxiv, and GitHub issues.
 - [glake](https://github.com/intelligent-machine-learning/glake) - GLake: optimizing GPU memory management and IO transmission.
 - [vue0](https://github.com/zernonia/vue0) - Generate components with prompts.
-
+- [parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
+  
 ## References
 
 - [GPT-Prompt-Hub](https://github.com/LichAmnesia/GPT-Prompt-Hub) - GPT-Prompt-Hub is an open-source community-driven repository dedicated to the collection, sharing, and refinement of custom GPT prompts. 

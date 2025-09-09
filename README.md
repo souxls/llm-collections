@@ -23,7 +23,9 @@ My llm stars lists.
 - [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。. 
 - [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!. 
 - [ai-engineering-toolkit](https://github.com/Sumanth077/ai-engineering-toolkit) - A curated list of 100+ libraries and frameworks for AI engineers building with LLMs. 
-  
+- [agents](https://github.com/wshobson/agents) - A collection of production-ready subagents for Claude Code. 
+- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024).
+
 ## Model
 
 - [Wan2.1](https://github.com/Wan-Video/Wan2.1) - Wan: Open and Advanced Large-Scale Video Generative Models. 
@@ -31,7 +33,12 @@ My llm stars lists.
 - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - None. 
 - [Open-O1](https://github.com/Open-Source-O1/Open-O1) - None. 
 - [grok-1](https://github.com/xai-org/grok-1) - Grok open release. 
-
+- [qwen-dianjin](https://github.com/aliyun/qwen-dianjin) - Qwen DianJin: LLMs for the Financial Industry by Alibaba Cloud. 
+- [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) -  ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型.
+- [StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models.
+- [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models.
+- [Qwen-7B](https://github.com/QwenLM/Qwen-7B) - The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud.
+  
 ## Framework
 
 - [full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.. 
@@ -95,11 +102,9 @@ My llm stars lists.
 - [TalkVid](https://github.com/FreedomIntelligence/TalkVid) - TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head Synthesis. 
 - [ThinkMesh](https://github.com/martianlantern/ThinkMesh) - Parallel thinking for LLMs. Confidence‑gated, strategy‑driven, offline‑friendly. 
 - [LIV_handhold_2](https://github.com/hku-mars/LIV_handhold_2) - LIV-Eye: A Low-Cost LiDAR-Inertial-Visual Fusion 3D Sensor for Robotics and Embodied AI.. 
-- [qwen-dianjin](https://github.com/aliyun/qwen-dianjin) - Qwen DianJin: LLMs for the Financial Industry by Alibaba Cloud. 
 - [agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers. 
 - [MGM-Omni](https://github.com/dvlab-research/MGM-Omni) - An Open-source Omni Chatbot for Long Speech and Voice Clone. 
 - [opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.. 
-- [agents](https://github.com/wshobson/agents) - A collection of production-ready subagents for Claude Code. 
 - [DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)". 
 - [mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app) - Import a 3D Model and automatically assign and export animations. 
 - [sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.. 
@@ -153,8 +158,7 @@ My llm stars lists.
 - [crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN. 
 - [Video_note_generator](https://github.com/whotto/Video_note_generator) - 一键将视频转换为优质小红书笔记，自动优化内容和配图. 
 - [pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. 文本纠错，实现了Kenlm，T5，MacBERT，ChatGLM3，Qwen2.5等模型应用在纠错场景，开箱即用。. 
-- [aide](https://github.com/codestoryai/aide) - The open-source AI-native IDE. 
-- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024). 
+- [aide](https://github.com/codestoryai/aide) - The open-source AI-native IDE.  
 - [vulnhuntr](https://github.com/protectai/vulnhuntr) - Zero shot vulnerability discovery using LLMs. 
 - [spiritlm](https://github.com/facebookresearch/spiritlm) - Inference code for the paper "Spirit-LM Interleaved Spoken and Written Language Model".. 
 - [AsrTools](https://github.com/WEIFENG2333/AsrTools) - ✨ AsrTools: Smart Voice-to-Text Tool | Efficient Batch Processing | User-Friendly Interface | No GPU Required | Supports SRT/TXT Output | Turn your audio into accurate text in an instant!. 
@@ -206,9 +210,7 @@ My llm stars lists.
 - [document.ai](https://github.com/GanymedeNil/document.ai) - 基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5).
 - [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地CPU/GPU部署 (Chinese LLaMA & Alpaca LLMs).
 - [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI.
-- [StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models.
 - [LLaMA](https://github.com/facebookresearch/llama) - This repository is intended as a minimal, hackable and readable example to load LLaMA (arXiv) models and run inference. In order to download the checkpoints and tokenizer, fill this google form.
-- [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models.
 - [bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model.
 - [semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search.
 - [OpenChineseLLaMA](https://github.com/OpenLMLab/OpenChineseLLaMA) - Chinese large language model base generated through incremental pre-training on Chinese datasets.
@@ -230,14 +232,12 @@ My llm stars lists.
 - [quivr](https://github.com/StanGirard/quivr) -  🧠 Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it 🧠 .
 - [roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap).
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
-- [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) -  ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型.
 - [generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI.
 - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖
 - [chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client.
 - [faster-whisper](https://github.com/guillaumekln/faster-whisper) - faster-whisper is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models.
-- [Qwen-7B](https://github.com/QwenLM/Qwen-7B) - The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud.
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - <https://hoppscotch.io>
 - [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) -  Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code.<www.kuafuai.net>
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
@@ -279,6 +279,14 @@ My llm stars lists.
 - [vue0](https://github.com/zernonia/vue0) - Generate components with prompts.
 - [parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
 - [n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [MathModelAgent](https://github.com/jihe520/MathModelAgent) - 🤖📐专为数学建模设计的 Agent ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
+- [code](https://github.com/just-every/code) - Fast, effective, mind-blowing, coding CLI. Browser integration, multi-agents, theming, and reasoning control. Orchestrate agents from OpenAI, Claude, Gemini or any provider.
+- [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.
+- [once-campfire](https://github.com/basecamp/once-campfire) - None
+- [agent-os](https://github.com/buildermethods/agent-os) - Agent OS is a system for better planning and executing software development tasks with your AI agents.
+- [structured-prompt-builder](https://github.com/Siddhesh2377/structured-prompt-builder) - A lightweight, browser‑first tool for designing well‑structured AI prompts with a clean UI, live previews, a local Prompt Library, and optional Gemini‑powered prompt optimization.
+- [walle](https://github.com/MoonshotAI/walle) - A Moonshot AI flavored Json schema validator.
+
 ## References
 
 - [GPT-Prompt-Hub](https://github.com/LichAmnesia/GPT-Prompt-Hub) - GPT-Prompt-Hub is an open-source community-driven repository dedicated to the collection, sharing, and refinement of custom GPT prompts. 
@@ -297,3 +305,8 @@ My llm stars lists.
 - [self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程. 
 - [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - None. 
 - [build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant) - 有手就会 《构建你自己的 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE 插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。
+- [osdt-weekly](https://github.com/hellogcc/osdt-weekly) - 开源开发工具周刊
+- [AI-Tutorial-Codes-Included](https://github.com/Marktechpost/AI-Tutorial-Codes-Included) - Codes/Notebooks for AI Projects
+- [llm-knowledge-cutoff-dates](https://github.com/HaoooWang/llm-knowledge-cutoff-dates) - This repository contains a summary of knowledge cut-off dates for various large language models (LLMs), such as GPT, Claude, Gemini, Llama, and more. 
+- [ZHO-nano-banana-Creation](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation) - 我的 nano-banana 创意玩法大合集！  持续更新中！
+- [ebook-to-mindmap](https://github.com/SSShooter/ebook-to-mindmap) - epub、pdf 拆书 AI 总结

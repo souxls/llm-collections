@@ -38,6 +38,7 @@ My llm stars lists.
 - [StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models.
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models.
 - [Qwen-7B](https://github.com/QwenLM/Qwen-7B) - The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud.
+- [baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc.
   
 ## Framework
 
@@ -227,7 +228,6 @@ My llm stars lists.
 - [OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) - OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.
 - [OpenBuddy](https://github.com/OpenBuddy/OpenBuddy) - Open Multilingual Chatbot for Everyone.
 - [whisperX](https://github.com/m-bain/whisperX) - WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization).
-- [baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc.
 - [infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation.
 - [quivr](https://github.com/StanGirard/quivr) -  🧠 Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it 🧠 .
 - [roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap).

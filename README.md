@@ -39,7 +39,8 @@ My llm stars lists.
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models.
 - [Qwen-7B](https://github.com/QwenLM/Qwen-7B) - The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud.
 - [baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc.
-  
+- [Lumina-DiMOO](https://github.com/Alpha-VLLM/Lumina-DiMOO) - Lumina-DiMOO - An Open-Sourced Multi-Modal Large Diffusion Language Model
+
 ## Framework
 
 - [full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.. 
@@ -75,6 +76,13 @@ My llm stars lists.
 - [rag-search](https://github.com/thinkany-ai/rag-search) - RAG Search API. 
 - [mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics Engine that can answer questions over large scale data. - The only MCP Server you'll ever need. 
 - [openapi-mcp-server](https://github.com/janwilmake/openapi-mcp-server) - Allow AI to wade through complex OpenAPIs using Simple Language
+- [WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+- [ChatMock](https://github.com/RayBytes/ChatMock) - Access OpenAI models programmatically through your ChatGPT subscription.
+- [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
+- [langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+- [Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
+- [checkpoint-engine](https://github.com/MoonshotAI/checkpoint-engine) - Checkpoint-engine is a simple middleware to update model weights in LLM inference engines
+- [ROMA](https://github.com/sentient-agi/ROMA) - Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
 
 ## App
 
@@ -286,6 +294,14 @@ My llm stars lists.
 - [agent-os](https://github.com/buildermethods/agent-os) - Agent OS is a system for better planning and executing software development tasks with your AI agents.
 - [structured-prompt-builder](https://github.com/Siddhesh2377/structured-prompt-builder) - A lightweight, browser‑first tool for designing well‑structured AI prompts with a clean UI, live previews, a local Prompt Library, and optional Gemini‑powered prompt optimization.
 - [walle](https://github.com/MoonshotAI/walle) - A Moonshot AI flavored Json schema validator.
+- [dilagent](https://github.com/schickling/dilagent) - "Deep research for bugs" – Agentic root cause analysis through hypothesis-driven debugging
+- [MCPJungle](https://github.com/mcpjungle/MCPJungle) - Self-hosted MCP Gateway and Registry for AI agents
+- [agno](https://github.com/agno-agi/agno) - High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
+- [mcp_polygon](https://github.com/polygon-io/mcp_polygon) - An MCP server for Polygon.io Financial Market Data
+- [NarratoAI](https://github.com/linyqh/NarratoAI) - 利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click.
+- [hallbayes](https://github.com/leochlon/hallbayes) - Post-hoc calibration without retraining for large language models.
+- [index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
+- [strix](https://github.com/usestrix/strix) - ✨ Open-source AI hackers for your apps 👨🏻‍💻 
 
 ## References
 
@@ -310,3 +326,7 @@ My llm stars lists.
 - [llm-knowledge-cutoff-dates](https://github.com/HaoooWang/llm-knowledge-cutoff-dates) - This repository contains a summary of knowledge cut-off dates for various large language models (LLMs), such as GPT, Claude, Gemini, Llama, and more. 
 - [ZHO-nano-banana-Creation](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation) - 我的 nano-banana 创意玩法大合集！  持续更新中！
 - [ebook-to-mindmap](https://github.com/SSShooter/ebook-to-mindmap) - epub、pdf 拆书 AI 总结
+- [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+- [drawnix-seedream](https://github.com/joeseesun/drawnix-seedream) - Drawnix whiteboard application - open source collaborative drawing tool with mind maps, flowcharts, and free drawing capabilities
+- [ML_course](https://github.com/epfml/ML_course) - EPFL Machine Learning Course, Fall 2025
+- [MiniCPM-V-CookBook](https://github.com/OpenSQZ/MiniCPM-V-CookBook) - Cook up amazing multimodal AI applications effortlessly with MiniCPM-o

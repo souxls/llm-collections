@@ -302,6 +302,8 @@ My llm stars lists.
 - [hallbayes](https://github.com/leochlon/hallbayes) - Post-hoc calibration without retraining for large language models.
 - [index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 - [strix](https://github.com/usestrix/strix) - ✨ Open-source AI hackers for your apps 👨🏻‍💻 
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin providing SEO and Google Ads skills.
+
 
 ## References
 

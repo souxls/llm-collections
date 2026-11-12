@@ -2,7 +2,9 @@
 
 My llm stars lists.
 
-Related: general tech collections live in [Collections](https://github.com/souxls/Collections).
+> **Related**: general tech collections live in [Collections](https://github.com/souxls/Collections).
+>
+> **Placement**: domain-first — skills and agent role packs live in Agent Skills, model weights and inference engines in Model / LLM Infra, everything else by domain.
 
   - [Awesome](#awesome)
   - [Model](#model)
